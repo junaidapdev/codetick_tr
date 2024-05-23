@@ -173,7 +173,7 @@ export const socialMedia = [
   {
     id: "social-media-1",
     icon: instagram,
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/codetick.in",
   },
   {
     id: "social-media-2",
