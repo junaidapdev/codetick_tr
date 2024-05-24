@@ -33,8 +33,8 @@ const Hero = () => {
           Master Coding in <span className="text-gradient">Malayalam</span>.
         </h1>
         <h2 className={`${styles.heading3} mt-5`}>
-          Learn <span className="text-gradient">Java, HTML & CSS</span> in 30
-          Days.
+          Learn <span className="text-gradient">HTML, CSS & Javascript</span> in
+          30 Days.
         </h2>
       </div>
       {/* 
