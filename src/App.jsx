@@ -12,9 +12,11 @@ import {
   Hero,
 } from "./components";
 import { Analytics } from "@vercel/analytics/react";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
     <Analytics />
+    <SpeedInsights />
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>{/* <Navbar /> */}</div>
     </div>
